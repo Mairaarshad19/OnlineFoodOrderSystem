@@ -1,0 +1,59 @@
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Online Food Order System.exe.config
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Online Food Order System.exe
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Online Food Order System.pdb
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Buffers.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Memory.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\ZstdSharp.dll
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Buffers.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Memory.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online Food Order System.csproj.AssemblyReference.cache
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.Properties.Resources.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Admin.Add_Restaurants.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.CustomerDashboard.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.BrowseFood.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.CartManagement.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.OrderHistory.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.OrderPlace.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.OrderTracking.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.PaymentProcessing.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Customers.Rating_Feedback.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.DeliveryRiderDashboard.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.DeliveryRider.DeliveryTaskManagement.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.DeliveryRider.DeliveryTracking.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.DeliveryRider.ProfileSetup.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Login.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Main_Page.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Notifications.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.RestaurantDashboard.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Restaurants.MenuManagement.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online_Food_Order_System.UI.Restaurants.OrderManagement.resources
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online Food Order System.csproj.GenerateResource.cache
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online Food Order System.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online F.B306220A.Up2Date
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online Food Order System.exe
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Online Food Order System\obj\Debug\Online Food Order System.pdb

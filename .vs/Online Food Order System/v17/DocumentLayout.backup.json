@@ -1,0 +1,965 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|c:\\users\\user\\documents\\3rd semester\\se\\finals\\online food order system - final\\online food order system\\ui\\customers\\browsefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\browsefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\paymentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\paymentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\paymentprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\paymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\paymentdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\admin\\addrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\admin\\addrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurantdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurantdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\deliveryriderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\deliveryriderdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurants\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurants\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurants\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurants\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\deliveryrider\\profilesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\deliveryrider\\profilesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\deliveryrider\\deliverytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\deliveryrider\\deliverytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\deliveryrider\\deliverytaskmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\deliveryrider\\deliverytaskmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\rating\u0026feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\rating\u0026feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\orderplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\ordertracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\ordertracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\orderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\cartmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\cartmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\browsefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\browsefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\cartdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\cartdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\cartitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\cartitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\cartitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\cartitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\cartbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\helpers\\restauranthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\helpers\\restauranthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\restaurantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\restaurantdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurants\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurants\\menumanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\admin\\addrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\admin\\addrestaurants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\restaurantbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\restaurantbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\menuitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\menuitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\cuisinedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\cuisinedl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\cuisinebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\cuisinebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\riderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\riderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\adminbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\adminbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\helpers\\menuhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customerdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurants\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurants\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customerdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customerdashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\orderitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\orderitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\menuitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\menuitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\bl\\deliveryassignmenttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\bl\\deliveryassignmenttbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\orderitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\orderitemdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\restaurants\\ordermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\restaurants\\ordermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\online food order system\\ui\\customers\\paymentprocessing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE2ABEC-3D89-4489-AFA5-7FCEE9CB3CA4}|Online Food Order System\\Online Food Order System.csproj|solutionrelative:online food order system\\ui\\customers\\paymentprocessing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:35:06.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Program.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Program.cs",
+              "RelativeToolTip": "Online Food Order System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:19:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\RestaurantDashboard.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\RestaurantDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\RestaurantDashboard.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\RestaurantDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:46:47.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\OrderBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\OrderBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\OrderBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\OrderBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:39:06.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\PaymentBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\PaymentBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\PaymentBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\PaymentBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:43:00.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowseFood.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:21:04.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentProcessing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\PaymentProcessing.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\PaymentProcessing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:31:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\PaymentDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\PaymentDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\PaymentDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\PaymentDL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:43:18.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRestaurants.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Admin\\AddRestaurants.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Admin\\AddRestaurants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:14:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveryRiderDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRiderDashboard.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\DeliveryRiderDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRiderDashboard.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\DeliveryRiderDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:27:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:33:27.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Restaurants\\OrderManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:23:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\MenuManagement.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Restaurants\\MenuManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T04:20:45.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProfileSetup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\ProfileSetup.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\DeliveryRider\\ProfileSetup.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\ProfileSetup.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\DeliveryRider\\ProfileSetup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:31:00.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeliveryTracking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\DeliveryTracking.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\DeliveryRider\\DeliveryTracking.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\DeliveryTracking.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\DeliveryRider\\DeliveryTracking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:30:59.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeliveryTaskManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\DeliveryTaskManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\DeliveryRider\\DeliveryTaskManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\DeliveryRider\\DeliveryTaskManagement.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\DeliveryRider\\DeliveryTaskManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:30:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rating\u0026Feedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\Rating\u0026Feedback.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\Rating\u0026Feedback.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\Rating\u0026Feedback.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\Rating\u0026Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:30:54.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderTracking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderTracking.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\OrderTracking.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderTracking.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\OrderTracking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:05:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderHistory.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\OrderHistory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderHistory.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\OrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:52:57.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\CartManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\CartManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\CartManagement.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\CartManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:03:34.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BrowseFood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\BrowseFood.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\BrowseFood.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\BrowseFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:01:52.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderPlace.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderPlace.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\OrderPlace.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\OrderPlace.cs [Design]",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\OrderPlace.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:52:58.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CartDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\CartDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CartDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\CartDL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:29:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartItemDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CartItemDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\CartItemDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CartItemDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\CartItemDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T11:57:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CartItemBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\CartItemBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CartItemBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\CartItemBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:41:33.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CartBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CartBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\CartBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CartBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\CartBL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:40:40.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RestaurantDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\RestaurantDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\RestaurantDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\RestaurantDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\RestaurantDL.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAApwJoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:21:51.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Copy\\Online Food Order System\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Online Food Order System - Copy\\Online Food Order System\\UI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:19:40.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RestaurantHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\RestaurantHelper.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\Helpers\\RestaurantHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\RestaurantHelper.cs",
+              "RelativeToolTip": "Online Food Order System\\Helpers\\RestaurantHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:06:51.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\MainPage.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\MainPage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Copy\\Online Food Order System\\UI\\MainPage.cs [Design]",
+              "RelativeToolTip": "..\\Online Food Order System - Copy\\Online Food Order System\\UI\\MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:19:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MenuManagement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Restaurants\\MenuManagement.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAwwNgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:04:14.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Login.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Login.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T12:20:00.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\Helpers\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "Online Food Order System\\Helpers\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T19:15:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddRestaurants.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Admin\\AddRestaurants.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAApwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:27:52.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RestaurantBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\RestaurantBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\RestaurantBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\RestaurantBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\RestaurantBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:46:17.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MenuItemDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\MenuItemDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\MenuItemDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\MenuItemDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\MenuItemDL.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAASwFsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:38:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CuisineDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CuisineDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\CuisineDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\CuisineDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\CuisineDL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:47:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CuisineBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CuisineBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\CuisineBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\CuisineBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\CuisineBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:49:08.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RiderDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\RiderDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\RiderDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\RiderDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\RiderDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:52:11.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Login.Designer.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Login.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAqwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:32:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\Session.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\Session.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\Session.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:24:42.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\AdminBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\AdminBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\AdminBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\AdminBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T18:22:36.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\MainPage.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\MainPage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\MainPage.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\MainPage.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIAxwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:19:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MenuHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\MenuHelper.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\Helpers\\MenuHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\Helpers\\MenuHelper.cs",
+              "RelativeToolTip": "Online Food Order System\\Helpers\\MenuHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:17:07.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\UserDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\UserDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\UserDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\UserDL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:52:12.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\UserBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\UserBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\UserBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\UserBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:31:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomerDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\CustomerDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.Designer.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\CustomerDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:12:47.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Restaurants\\OrderManagement.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAASwGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:24:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomerDashboard.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.resx",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\CustomerDashboard.resx",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.resx",
+              "RelativeToolTip": "Online Food Order System\\UI\\CustomerDashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-07T17:12:48.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\CustomerDashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\CustomerDashboard.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\CustomerDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:12:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Notifications.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Notifications.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Notifications.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System\\Online Food Order System\\UI\\Notifications.cs [Design]",
+              "RelativeToolTip": "..\\Online Food Order System\\Online Food Order System\\UI\\Notifications.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:34:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\OrderItemBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\OrderItemBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\OrderItemBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\OrderItemBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:42:16.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MenuItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\MenuItemBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\MenuItemBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\MenuItemBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\MenuItemBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T05:38:15.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeliveryAssignmenttBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\DeliveryAssignmenttBL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\BL\\DeliveryAssignmenttBL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\BL\\DeliveryAssignmenttBL.cs",
+              "RelativeToolTip": "Online Food Order System\\BL\\DeliveryAssignmenttBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:10:41.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "OrderItemDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\OrderItemDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\OrderItemDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\OrderItemDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\OrderItemDL.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:47:41.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DatabaseHelper.cs",
+              "RelativeToolTip": "Online Food Order System\\DatabaseHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T13:11:52.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\packages.config",
+              "RelativeDocumentMoniker": "Online Food Order System\\packages.config",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\packages.config",
+              "RelativeToolTip": "Online Food Order System\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-02T13:11:50.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderDL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\OrderDL.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\DL\\OrderDL.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\DL\\OrderDL.cs",
+              "RelativeToolTip": "Online Food Order System\\DL\\OrderDL.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAEwGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:39:39.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Restaurants\\OrderManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Restaurants\\OrderManagement.Designer.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Restaurants\\OrderManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:40:24.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "PaymentProcessing.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.Designer.cs",
+              "RelativeDocumentMoniker": "Online Food Order System\\UI\\Customers\\PaymentProcessing.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\3rd Semester\\SE\\Finals\\Online Food Order System - Final\\Online Food Order System\\UI\\Customers\\PaymentProcessing.Designer.cs",
+              "RelativeToolTip": "Online Food Order System\\UI\\Customers\\PaymentProcessing.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T16:35:06.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
