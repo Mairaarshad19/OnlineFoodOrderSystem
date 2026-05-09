@@ -28,11 +28,5 @@ The **Online Food Order System** is a C# Windows Forms application with MySQL da
 - `BL/` → Business Logic classes (RestaurantBL, PaymentBL, CartBL, etc.)
 - `DL/` → Data Layer classes (DatabaseHelper, PaymentDL, CartDL, etc.)
 - `UI/` → Windows Forms for user interaction
-- `screenshots/` → UI screenshots (add your images here)
 
 ---
-
-## ⚙️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Online-Food-Order-System.git
