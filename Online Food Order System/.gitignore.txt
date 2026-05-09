@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Build files
+*.dll
+*.exe
+
+# Database logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
