@@ -3,20 +3,22 @@
 bin/
 obj/
 
-# User-specific files
-*.user
-*.suo
-
 # NuGet packages
 packages/
 
-# Build files
-*.dll
-*.exe
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# Database logs
+# Logs
 *.log
 
-# OS generated files
-Thumbs.db
+# Build results
+Debug/
+Release/
+
+# OS files
 .DS_Store
+Thumbs.db
