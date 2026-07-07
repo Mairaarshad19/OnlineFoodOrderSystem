@@ -1,5 +1,11 @@
 # 🍴 Online Food Order System
 
+![C#](https://img.shields.io/badge/C%23-.NET_Framework-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-UI-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-Data_Access-00599C?style=for-the-badge&logo=dotnet&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ## 📌 Overview
 The **Online Food Order System** is a C# Windows Forms application integrated with a MySQL database. It allows users to browse cuisines, select restaurants, add food items to a cart, and complete orders with payment tracking. This project demonstrates practical use of **data structures, database operations, and UI design** in a real-world food ordering scenario.
 
