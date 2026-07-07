@@ -27,7 +27,7 @@ The **Online Food Order System** is a C# Windows Forms application integrated wi
 ## 📂 Project Structure
 
 ```
-Online-Food-Order-System/
+OnlineFoodOrderSystem/
 │── BL/             # Business Logic classes (RestaurantBL, PaymentBL, CartBL, etc.)
 │── DL/             # Data Layer classes (DatabaseHelper, PaymentDL, CartDL, etc.)
 │── UI/             # Windows Forms for user interaction
@@ -43,7 +43,7 @@ Online-Food-Order-System/
 - Visual Studio (2019 or later)
 - .NET Framework
 - MySQL Server
-- GitHub Desktop (optional, for version control)
+- GitHub Desktop (for version control)
 
 ---
 
@@ -51,7 +51,7 @@ Online-Food-Order-System/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/<your-username>/Online-Food-Order-System.git
+   git clone https://github.com/Mairaarshad19/OnlineFoodOrderSystem.git
 ```
 2. Open the solution in Visual Studio.
 3. Configure your MySQL connection string in `DatabaseHelper.cs`.
