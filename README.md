@@ -33,14 +33,34 @@ The **Online Food Order System** is a C# Windows Forms application integrated wi
 ## 📂 Project Structure
 
 ```
+```text
 OnlineFoodOrderSystem/
-│── BL/             # Business Logic classes (RestaurantBL, PaymentBL, CartBL, etc.)
-│── DL/             # Data Layer classes (DatabaseHelper, PaymentDL, CartDL, etc.)
-│── UI/             # Windows Forms for user interaction
-│── screenshots/    # UI screenshots
-│── README.md       # Project documentation
-│── LICENSE         # License file
-│── .gitignore      # Ignore build artifacts
+│── .vs/                            # Visual Studio configuration
+│── BL/                             # Business Logic Layer
+│── DL/                             # Data Access Layer
+│── Helpers/                        # Helper/Utility classes
+│── Properties/                     # Project properties and settings
+│── Resources/                      # Project resources (images, icons, etc.)
+│── Screenshots/                    # Application screenshots
+│   ├── customer.png
+│   └── payment.png
+│── UI/                             # Windows Forms (Presentation Layer)
+│── bin/                            # Compiled binaries
+│── obj/                            # Build artifacts
+│── packages/                       # NuGet packages
+│── App.config                      # Application configuration
+│── DatabaseHelper.cs               # Database helper class
+│── food_order_system.sql           # Database schema and sample data
+│── Online Food Order System.csproj # Visual Studio project file
+│── Online Food Order System.sln    # Visual Studio solution
+│── packages.config                 # NuGet package references
+│── Program.cs                      # Application entry point
+│── README.md                       # Project documentation
+│── LICENSE.txt                     # License
+│── .gitattributes                  # Git attributes
+│── .gitignore.txt                  # Git ignore rules
+```
+
 ```
 
 ---
