@@ -76,7 +76,8 @@ OnlineFoodOrderSystem/
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your forms here, e.g., login screen, cart, payment form.)*
+C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Screenshots
+
 
 ---
 
