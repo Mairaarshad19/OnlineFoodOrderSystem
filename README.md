@@ -1,4 +1,3 @@
-```markdown
 # 🍴 Online Food Order System
 
 ## 📌 Overview
@@ -26,15 +25,16 @@ The **Online Food Order System** is a C# Windows Forms application integrated wi
 ---
 
 ## 📂 Project Structure
+
 ```
 Online-Food-Order-System/
-│── BL/                # Business Logic classes (RestaurantBL, PaymentBL, CartBL, etc.)
-│── DL/                # Data Layer classes (DatabaseHelper, PaymentDL, CartDL, etc.)
-│── UI/                # Windows Forms for user interaction
-│── screenshots/       # UI screenshots
-│── README.md          # Project documentation
-│── LICENSE            # License file
-│── .gitignore         # Ignore build artifacts
+│── BL/             # Business Logic classes (RestaurantBL, PaymentBL, CartBL, etc.)
+│── DL/             # Data Layer classes (DatabaseHelper, PaymentDL, CartDL, etc.)
+│── UI/             # Windows Forms for user interaction
+│── screenshots/    # UI screenshots
+│── README.md       # Project documentation
+│── LICENSE         # License file
+│── .gitignore      # Ignore build artifacts
 ```
 
 ---
@@ -48,12 +48,13 @@ Online-Food-Order-System/
 ---
 
 ## 🔧 Installation
+
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/<your-username>/Online-Food-Order-System.git
-   ```
-2. Open the solution in **Visual Studio**.
-3. Configure your **MySQL connection string** in `DatabaseHelper.cs`.
+```
+2. Open the solution in Visual Studio.
+3. Configure your MySQL connection string in `DatabaseHelper.cs`.
 4. Run database migrations or import the provided SQL schema.
 5. Build and run the project.
 
@@ -79,25 +80,25 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ---
 
 ## 🤝 Contributing
-Contributions are welcome!  
-1. Fork the repo  
-2. Create a feature branch (`git checkout -b feature-name`)  
-3. Commit changes (`git commit -m "Added feature"`)  
-4. Push to branch (`git push origin feature-name`)  
-5. Open a Pull Request  
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Commit changes (`git commit -m "Added feature"`)
+4. Push to branch (`git push origin feature-name`)
+5. Open a Pull Request
 
 ---
 
 ## 🧭 Roadmap
-- ✅ Cart & payment integration  
-- ✅ Cuisine/restaurant management  
-- 🔜 Online database hosting  
-- 🔜 User roles (Admin vs Customer)  
-- 🔜 Reporting & analytics  
+- ✅ Cart & payment integration
+- ✅ Cuisine/restaurant management
+- 🔜 Online database hosting
+- 🔜 User roles (Admin vs Customer)
+- 🔜 Reporting & analytics
 
 ---
 
 ## 👩‍💻 Author
-Developed by **Maira Arshad**  
+Developed by **Maira Arshad**
 University project — Computer Science specialization in security & data structures.
-```
