@@ -75,8 +75,16 @@ OnlineFoodOrderSystem/
 
 ---
 
+
+
 ## 📸 Screenshots
-C:\Users\User\Documents\3rd Semester\SE\Finals\Online Food Order System - Final\Screenshots
+
+### Customer Screen
+![Customer Screen](Screenshots/customer.png)
+
+
+### Payment Screen
+![Payment Screen](Screenshots/payment.png)
 
 
 ---
