@@ -32,7 +32,6 @@ The **Online Food Order System** is a C# Windows Forms application integrated wi
 
 ## 📂 Project Structure
 
-```text
 OnlineFoodOrderSystem/
 │── .vs/                            # Visual Studio configuration
 │── BL/                             # Business Logic Layer
